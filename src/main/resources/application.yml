@@ -1,0 +1,15 @@
+# dontsweat-api/src/main/resources/application.yml
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/dontsweat
+    username: dontsweat
+    password: dontsweat
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
+  flyway:
+    enabled: true
