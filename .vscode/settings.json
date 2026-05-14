@@ -1,10 +1,8 @@
 {
   "editor.formatOnSave": true,
-  "java.format.enabled": true,
-  "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
-  "java.format.settings.profile": "GoogleStyle",
+  "java.format.enabled": false,
   "[java]": {
-    "editor.defaultFormatter": "redhat.java"
+    "editor.formatOnSave": false
   },
   "[xml]": {
     "editor.defaultFormatter": "redhat.vscode-xml"

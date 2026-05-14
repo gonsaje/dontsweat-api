@@ -1,4 +1,3 @@
 package tech.dontsweat.api.common;
 
-public class ApiError {
-}
+public class ApiError {}
