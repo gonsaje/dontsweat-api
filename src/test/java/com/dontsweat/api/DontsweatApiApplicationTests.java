@@ -1,4 +1,4 @@
-package com.dontsweat.api;
+package tech.dontsweat.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

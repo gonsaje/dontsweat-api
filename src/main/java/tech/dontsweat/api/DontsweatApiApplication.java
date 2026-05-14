@@ -1,4 +1,4 @@
-package com.dontsweat.api;
+package tech.dontsweat.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
